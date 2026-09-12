@@ -1,0 +1,21 @@
+{
+  "platform": "tlx",
+  "problemId": "arkavidia-9-cp-penyisihan",
+  "problemTitle": "arkavidia-9-cp-penyisihan",
+  "problemUrl": "https://tlx.toki.id/problems/arkavidia-9-cp-penyisihan/I/submissions/4769586",
+  "contestId": "Problemset",
+  "rating": null,
+  "tags": [
+    "TLX Toki"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "tlx-1789236413588",
+    "verdict": "Accepted (100)",
+    "language": "C++",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-12T18:06:53.588Z"
+  }
+}
