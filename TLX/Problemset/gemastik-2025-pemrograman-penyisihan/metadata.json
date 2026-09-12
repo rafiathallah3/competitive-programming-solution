@@ -1,0 +1,21 @@
+{
+  "platform": "tlx",
+  "problemId": "gemastik-2025-pemrograman-penyisihan",
+  "problemTitle": "gemastik-2025-pemrograman-penyisihan",
+  "problemUrl": "https://tlx.toki.id/problems/gemastik-2025-pemrograman-penyisihan/D/submissions/5384252",
+  "contestId": "Problemset",
+  "rating": null,
+  "tags": [
+    "TLX Toki"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "tlx-1789236297306",
+    "verdict": "Accepted (100)",
+    "language": "C++",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-12T18:04:57.307Z"
+  }
+}
