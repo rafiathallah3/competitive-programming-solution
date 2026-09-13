@@ -1,0 +1,21 @@
+{
+  "platform": "tlx",
+  "problemId": "troc-20",
+  "problemTitle": "TROC #20 / A. Prehistoric Hammer",
+  "problemUrl": "https://tlx.toki.id/problems/troc-20/A/submissions/6008788",
+  "contestId": "Problemset",
+  "rating": null,
+  "tags": [
+    "TLX Toki"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "6008788",
+    "verdict": "Accepted (100)",
+    "language": "C++",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-13T13:24:56.511Z"
+  }
+}
