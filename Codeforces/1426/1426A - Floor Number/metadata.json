@@ -1,0 +1,22 @@
+{
+  "platform": "codeforces",
+  "problemId": "1426A",
+  "problemTitle": "Floor Number",
+  "problemUrl": "https://codeforces.com/problemset/problem/1426/A",
+  "contestId": "1426",
+  "rating": "800",
+  "tags": [
+    "implementation",
+    "math"
+  ],
+  "timeLimit": "1 second",
+  "memoryLimit": "256 megabytes",
+  "submission": {
+    "submissionId": "391256202",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": "31 ms",
+    "memoryUsed": "0 KB",
+    "submittedAt": "2026-09-19T17:25:22.000Z"
+  }
+}
