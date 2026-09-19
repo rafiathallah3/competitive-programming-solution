@@ -1,0 +1,22 @@
+{
+  "platform": "codeforces",
+  "problemId": "959A",
+  "problemTitle": "Mahmoud and Ehab and the even-odd game",
+  "problemUrl": "https://codeforces.com/problemset/problem/959/A",
+  "contestId": "959",
+  "rating": "800",
+  "tags": [
+    "games",
+    "math"
+  ],
+  "timeLimit": "1 second",
+  "memoryLimit": "256 megabytes",
+  "submission": {
+    "submissionId": "391255245",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": "31 ms",
+    "memoryUsed": "0 KB",
+    "submittedAt": "2026-09-19T17:16:10.000Z"
+  }
+}
