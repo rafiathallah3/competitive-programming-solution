@@ -1,0 +1,25 @@
+{
+  "platform": "codeforces",
+  "problemId": "2065A",
+  "problemTitle": "Skibidus and Amog'u",
+  "problemUrl": "https://codeforces.com/problemset/problem/2065/A?adcd1e=caf4ft0r28b5km&csrf_token=98e9823ab9f9e7ae55f10f5a1756f4d3&__cf_chl_tk=qoLxCA6aUFzR7IL2n0Oqw2XQoQ.3PxoYCn3p705Cx4Y-1789831513-1.0.1.1-fz7nT8Q9p3xISvIWUSe6nD3cBSTDn.6n0NVL9qA3LMQ",
+  "contestId": "2065",
+  "rating": "800",
+  "tags": [
+    "brute force",
+    "constructive algorithms",
+    "greedy",
+    "implementation",
+    "strings"
+  ],
+  "timeLimit": "1 second",
+  "memoryLimit": "256 megabytes",
+  "submission": {
+    "submissionId": "391244715",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": "0 ms",
+    "memoryUsed": "0 KB",
+    "submittedAt": "2026-09-19T15:25:17.000Z"
+  }
+}
