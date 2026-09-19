@@ -1,0 +1,21 @@
+{
+  "platform": "tlx",
+  "problemId": "gemastik-2025-pemrograman-penyisihan",
+  "problemTitle": "Gemastik 2025 - Penyisihan Pemrograman / D. Diskon Beli A Gratis B",
+  "problemUrl": "https://tlx.toki.id/problems/gemastik-2025-pemrograman-penyisihan/D",
+  "contestId": "Problemset",
+  "rating": null,
+  "tags": [
+    "TLX Toki"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "5384252",
+    "verdict": "Accepted (100)",
+    "language": "C++",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T15:49:10.488Z"
+  }
+}
