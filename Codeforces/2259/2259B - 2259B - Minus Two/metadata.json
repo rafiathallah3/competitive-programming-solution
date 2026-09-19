@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2259B",
+  "problemTitle": "2259B - Minus Two",
+  "problemUrl": "https://codeforces.com/contest/2259/problem/B",
+  "contestId": "2259",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "389564329",
+    "verdict": "Accepted",
+    "language": "2259B - Minus Two",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T17:25:24.303Z"
+  }
+}
