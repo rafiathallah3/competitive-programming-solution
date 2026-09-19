@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1814A",
+  "problemTitle": "1814A - Coins",
+  "problemUrl": "https://codeforces.com/contest/1814/problem/A",
+  "contestId": "1814",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "391235190",
+    "verdict": "Accepted",
+    "language": "1814A - Coins",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T17:16:11.808Z"
+  }
+}
