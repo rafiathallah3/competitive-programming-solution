@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1624B",
+  "problemTitle": "1624B - Make AP",
+  "problemUrl": "https://codeforces.com/contest/1624/problem/B",
+  "contestId": "1624",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "391252956",
+    "verdict": "Accepted",
+    "language": "1624B - Make AP",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T16:53:10.555Z"
+  }
+}
