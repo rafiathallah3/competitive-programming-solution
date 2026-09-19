@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2244B",
+  "problemTitle": "2244B - Nikita and Books",
+  "problemUrl": "https://codeforces.com/contest/2244/problem/B",
+  "contestId": "2244",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "382645002",
+    "verdict": "Accepted",
+    "language": "2244B - Nikita and Books",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T17:16:12.099Z"
+  }
+}
