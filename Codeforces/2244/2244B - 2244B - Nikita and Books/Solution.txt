@@ -1,0 +1,59 @@
+"""
+Author: Rafi
+Problem: Nikita and Books
+Link: https://codeforces.com/contest/2244/problem/B
+Created: 2026-07-14 22:25:26
+"""
+
+import sys
+from collections import deque, defaultdict, Counter
+from heapq import heappush, heappop
+from bisect import bisect_left, bisect_right
+from math import gcd, sqrt, ceil, floor, factorial
+
+sys.setrecursionlimit(10**6)
+
+
+def input():
+    return sys.stdin.readline().strip()
+
+
+def ii():
+    return int(input())
+
+
+def mi():
+    return map(int, input().split())
+
+
+def li():
+    return list(map(int, input().split()))
+
+
+def solve():
+    n = ii()
+    a = li()
+
+    tambahan = 0
+    jumlah = 0
+    for i in range(n):
+        tambahan += a[i]
+        jumlah += 1
+        totalMasukan = (jumlah * (jumlah + 1)) // 2
+
+        if totalMasukan > tambahan:
+            print("NO")
+            return
+
+    print("YES")
+
+
+def main():
+    t = int(input())
+    # t = 1
+    for _ in range(t):
+        solve()
+
+
+if __name__ == "__main__":
+    main()
