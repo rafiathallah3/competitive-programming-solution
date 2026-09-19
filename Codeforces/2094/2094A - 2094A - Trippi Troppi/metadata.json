@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2094A",
+  "problemTitle": "2094A - Trippi Troppi",
+  "problemUrl": "https://codeforces.com/contest/2094/problem/A",
+  "contestId": "2094",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "386404716",
+    "verdict": "Accepted",
+    "language": "2094A - Trippi Troppi",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T16:52:59.193Z"
+  }
+}
