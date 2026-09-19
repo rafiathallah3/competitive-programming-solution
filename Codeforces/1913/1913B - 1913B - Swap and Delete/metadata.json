@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1913B",
+  "problemTitle": "1913B - Swap and Delete",
+  "problemUrl": "https://codeforces.com/contest/1913/problem/B",
+  "contestId": "1913",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "388167922",
+    "verdict": "Accepted",
+    "language": "1913B - Swap and Delete",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-19T16:52:59.148Z"
+  }
+}
