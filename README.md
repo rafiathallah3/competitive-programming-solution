@@ -14,4 +14,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [2094A](https://codeforces.com/contest/2094/problem/A) | [2094A - 2094A - Trippi Troppi](Codeforces/2094/2094A - 2094A - Trippi Troppi) | `2094A - Trippi Troppi` | - | - | 2026-09-19 |
 | Codeforces | [2244B](https://codeforces.com/contest/2244/problem/B) | [2244B - 2244B - Nikita and Books](Codeforces/2244/2244B - 2244B - Nikita and Books) | `2244B - Nikita and Books` | - | - | 2026-09-19 |
 | Codeforces | [959A](https://codeforces.com/problemset/problem/959/A) | [959A - Mahmoud and Ehab and the even-odd game](Codeforces/959/959A - Mahmoud and Ehab and the even-odd game) | `C++23 (GCC 14-64, msys2)` | 31 ms | 0 KB | 2026-09-19 |
+| Codeforces | [2259B](https://codeforces.com/contest/2259/problem/B) | [2259B - 2259B - Minus Two](Codeforces/2259/2259B - 2259B - Minus Two) | `2259B - Minus Two` | - | - | 2026-09-19 |
 <!-- cpbase-table-end -->
