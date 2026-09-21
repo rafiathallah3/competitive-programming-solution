@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2266C",
+  "problemTitle": "C - AND, OR, Sort!",
+  "problemUrl": "https://codeforces.com/contest/2266/problem/C",
+  "contestId": "2266",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "391518405",
+    "verdict": "Accepted",
+    "language": "C - AND, OR, Sort!",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-21T16:14:02.233Z"
+  }
+}
