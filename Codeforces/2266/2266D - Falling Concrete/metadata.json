@@ -1,0 +1,19 @@
+{
+  "platform": "codeforces",
+  "problemId": "2266D",
+  "problemTitle": "Falling Concrete",
+  "problemUrl": "https://codeforces.com/contest/2266/problem/D",
+  "contestId": "2266",
+  "rating": null,
+  "tags": [],
+  "timeLimit": "2 seconds",
+  "memoryLimit": "256 megabytes",
+  "submission": {
+    "submissionId": "391531981",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": "78 ms",
+    "memoryUsed": "0 KB",
+    "submittedAt": "2026-09-21T16:50:38.000Z"
+  }
+}
