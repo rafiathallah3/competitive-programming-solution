@@ -1,0 +1,22 @@
+{
+  "platform": "codeforces",
+  "problemId": "1883C",
+  "problemTitle": "Raspberries",
+  "problemUrl": "https://codeforces.com/problemset/problem/1883/C",
+  "contestId": "1883",
+  "rating": "1000",
+  "tags": [
+    "dp",
+    "math"
+  ],
+  "timeLimit": "2 seconds",
+  "memoryLimit": "256 megabytes",
+  "submission": {
+    "submissionId": "391693528",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": "46 ms",
+    "memoryUsed": "0 KB",
+    "submittedAt": "2026-09-22T17:16:41.000Z"
+  }
+}
