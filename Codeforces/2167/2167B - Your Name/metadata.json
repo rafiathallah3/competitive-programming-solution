@@ -1,0 +1,22 @@
+{
+  "platform": "codeforces",
+  "problemId": "2167B",
+  "problemTitle": "Your Name",
+  "problemUrl": "https://codeforces.com/problemset/problem/2167/B",
+  "contestId": "2167",
+  "rating": "800",
+  "tags": [
+    "sortings",
+    "strings"
+  ],
+  "timeLimit": "1 second",
+  "memoryLimit": "256 megabytes",
+  "submission": {
+    "submissionId": "391809530",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": "31 ms",
+    "memoryUsed": "0 KB",
+    "submittedAt": "2026-09-23T17:53:27.000Z"
+  }
+}
