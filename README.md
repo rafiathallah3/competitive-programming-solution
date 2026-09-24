@@ -19,4 +19,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [2266C](https://codeforces.com/contest/2266/problem/C) | [2266C - C - AND, OR, Sort!](Codeforces/2266/2266C - C - AND, OR, Sort!) | `C - AND, OR, Sort!` | - | - | 2026-09-21 |
 | Codeforces | [2266D](https://codeforces.com/contest/2266/problem/D) | [2266D - Falling Concrete](Codeforces/2266/2266D - Falling Concrete) | `C++23 (GCC 14-64, msys2)` | 78 ms | 0 KB | 2026-09-21 |
 | Codeforces | [1883C](https://codeforces.com/problemset/problem/1883/C) | [1883C - Raspberries](Codeforces/1883/1883C - Raspberries) | `C++23 (GCC 14-64, msys2)` | 46 ms | 0 KB | 2026-09-22 |
+| Codeforces | [1476A](https://codeforces.com/contest/1476/problem/A) | [1476A - 1476A - K-divisible Sum](Codeforces/1476/1476A - 1476A - K-divisible Sum) | `Python 3` | - | - | 2026-09-24 |
 <!-- cpbase-table-end -->
