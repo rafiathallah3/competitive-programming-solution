@@ -13,9 +13,9 @@
   "submission": {
     "submissionId": "389564329",
     "verdict": "Accepted",
-    "language": "2259B - Minus Two",
+    "language": "C++23 (GCC 14-64, msys2)",
     "executionTime": null,
     "memoryUsed": null,
-    "submittedAt": "2026-09-19T17:25:24.303Z"
+    "submittedAt": "2026-09-24T07:56:13.205Z"
   }
 }
