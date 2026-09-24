@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1783A",
+  "problemTitle": "1783A - Make it Beautiful",
+  "problemUrl": "https://codeforces.com/contest/1783/problem/A",
+  "contestId": "1783",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "391850701",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-24T07:56:21.522Z"
+  }
+}
