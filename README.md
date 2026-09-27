@@ -21,4 +21,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [1883C](https://codeforces.com/problemset/problem/1883/C) | [1883C - Raspberries](Codeforces/1883/1883C - Raspberries) | `C++23 (GCC 14-64, msys2)` | 46 ms | 0 KB | 2026-09-22 |
 | Codeforces | [1476A](https://codeforces.com/contest/1476/problem/A) | [1476A - 1476A - K-divisible Sum](Codeforces/1476/1476A - 1476A - K-divisible Sum) | `Python 3` | - | - | 2026-09-24 |
 | Codeforces | [580C](https://codeforces.com/contest/580/problem/C) | [580C - 580C - Kefa and Park](Codeforces/580/580C - 580C - Kefa and Park) | `Python 3` | - | - | 2026-09-27 |
+| Codeforces | [1877A](https://codeforces.com/contest/1877/problem/A) | [1877A - 1877A - Goals of Victory](Codeforces/1877/1877A - 1877A - Goals of Victory) | `Python 3` | - | - | 2026-09-27 |
 <!-- cpbase-table-end -->
