@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "245H",
+  "problemTitle": "245H - Queries for Number of Palindromes",
+  "problemUrl": "https://codeforces.com/contest/245/problem/H",
+  "contestId": "245",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "392351180",
+    "verdict": "Accepted",
+    "language": "C++17 (GCC 7-32)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-27T16:08:50.059Z"
+  }
+}
