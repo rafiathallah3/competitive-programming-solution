@@ -23,4 +23,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [580C](https://codeforces.com/contest/580/problem/C) | [580C - 580C - Kefa and Park](Codeforces/580/580C - 580C - Kefa and Park) | `Python 3` | - | - | 2026-09-27 |
 | Codeforces | [1877A](https://codeforces.com/contest/1877/problem/A) | [1877A - 1877A - Goals of Victory](Codeforces/1877/1877A - 1877A - Goals of Victory) | `Python 3` | - | - | 2026-09-27 |
 | Codeforces | [1866A](https://codeforces.com/contest/1866/problem/A) | [1866A - 1866A - Ambitious Kid](Codeforces/1866/1866A - 1866A - Ambitious Kid) | `C++17 (GCC 7-32)` | - | - | 2026-09-27 |
+| Codeforces | [245H](https://codeforces.com/contest/245/problem/H) | [245H - 245H - Queries for Number of Palindromes](Codeforces/245/245H - 245H - Queries for Number of Palindromes) | `C++17 (GCC 7-32)` | - | - | 2026-09-27 |
 <!-- cpbase-table-end -->
