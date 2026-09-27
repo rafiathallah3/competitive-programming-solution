@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "580C",
+  "problemTitle": "580C - Kefa and Park",
+  "problemUrl": "https://codeforces.com/contest/580/problem/C",
+  "contestId": "580",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "386391568",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-27T15:21:03.620Z"
+  }
+}
