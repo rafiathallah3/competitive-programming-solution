@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "474A",
+  "problemTitle": "474A - Keyboard",
+  "problemUrl": "https://codeforces.com/contest/474/problem/A",
+  "contestId": "474",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "386925762",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-28T17:19:30.457Z"
+  }
+}
