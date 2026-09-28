@@ -26,4 +26,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [245H](https://codeforces.com/contest/245/problem/H) | [245H - 245H - Queries for Number of Palindromes](Codeforces/245/245H - 245H - Queries for Number of Palindromes) | `C++17 (GCC 7-32)` | - | - | 2026-09-27 |
 | Codeforces | [1890A](https://codeforces.com/contest/1890/problem/A) | [1890A - 1890A - Doremy's Paint 3](Codeforces/1890/1890A - 1890A - Doremy's Paint 3) | `Python 3` | - | - | 2026-09-28 |
 | Codeforces | [474A](https://codeforces.com/contest/474/problem/A) | [474A - 474A - Keyboard](Codeforces/474/474A - 474A - Keyboard) | `Python 3` | - | - | 2026-09-28 |
+| Codeforces | [2266B](https://codeforces.com/contest/2266/problem/B) | [2266B - 2266B - Three Piles](Codeforces/2266/2266B - 2266B - Three Piles) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-09-28 |
 <!-- cpbase-table-end -->
