@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1890A",
+  "problemTitle": "1890A - Doremy's Paint 3",
+  "problemUrl": "https://codeforces.com/contest/1890/problem/A",
+  "contestId": "1890",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "385230287",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-28T17:14:50.989Z"
+  }
+}
