@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2266B",
+  "problemTitle": "2266B - Three Piles",
+  "problemUrl": "https://codeforces.com/contest/2266/problem/B",
+  "contestId": "2266",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "391490901",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-28T18:07:10.775Z"
+  }
+}
