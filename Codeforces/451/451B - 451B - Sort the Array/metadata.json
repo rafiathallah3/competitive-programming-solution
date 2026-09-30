@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "451B",
+  "problemTitle": "451B - Sort the Array",
+  "problemUrl": "https://codeforces.com/contest/451/problem/B",
+  "contestId": "451",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "392666079",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-30T03:04:43.191Z"
+  }
+}
