@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1859A",
+  "problemTitle": "1859A - United We Stand",
+  "problemUrl": "https://codeforces.com/contest/1859/problem/A",
+  "contestId": "1859",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "386368222",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-30T02:21:15.570Z"
+  }
+}
