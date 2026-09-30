@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1822B",
+  "problemTitle": "1822B - Karina and Array",
+  "problemUrl": "https://codeforces.com/contest/1822/problem/B",
+  "contestId": "1822",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "392664455",
+    "verdict": "Accepted",
+    "language": "Rust 2024",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-30T02:22:22.704Z"
+  }
+}
