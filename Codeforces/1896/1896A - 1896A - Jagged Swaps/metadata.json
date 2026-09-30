@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1896A",
+  "problemTitle": "1896A - Jagged Swaps",
+  "problemUrl": "https://codeforces.com/contest/1896/problem/A",
+  "contestId": "1896",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "385106944",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-30T03:04:31.153Z"
+  }
+}
