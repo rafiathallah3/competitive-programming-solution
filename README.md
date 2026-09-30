@@ -30,4 +30,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [1859A](https://codeforces.com/contest/1859/problem/A) | [1859A - 1859A - United We Stand](Codeforces/1859/1859A - 1859A - United We Stand) | `Python 3` | - | - | 2026-09-30 |
 | Codeforces | [1822B](https://codeforces.com/contest/1822/problem/B) | [1822B - 1822B - Karina and Array](Codeforces/1822/1822B - 1822B - Karina and Array) | `Rust 2024` | - | - | 2026-09-30 |
 | Codeforces | [702A](https://codeforces.com/contest/702/problem/A) | [702A - 702A - Maximum Increase](Codeforces/702/702A - 702A - Maximum Increase) | `Python 3` | - | - | 2026-09-30 |
+| Codeforces | [1896A](https://codeforces.com/contest/1896/problem/A) | [1896A - 1896A - Jagged Swaps](Codeforces/1896/1896A - 1896A - Jagged Swaps) | `Python 3` | - | - | 2026-09-30 |
 <!-- cpbase-table-end -->
