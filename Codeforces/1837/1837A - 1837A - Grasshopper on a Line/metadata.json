@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1837A",
+  "problemTitle": "1837A - Grasshopper on a Line",
+  "problemUrl": "https://codeforces.com/contest/1837/problem/A",
+  "contestId": "1837",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "386373860",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-09-30T02:48:43.689Z"
+  }
+}
