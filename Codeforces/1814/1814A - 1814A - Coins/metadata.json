@@ -13,9 +13,9 @@
   "submission": {
     "submissionId": "391235190",
     "verdict": "Accepted",
-    "language": "1814A - Coins",
+    "language": "C++23 (GCC 14-64, msys2)",
     "executionTime": null,
     "memoryUsed": null,
-    "submittedAt": "2026-09-19T17:16:11.808Z"
+    "submittedAt": "2026-09-30T03:42:10.182Z"
   }
 }
