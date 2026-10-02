@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2167A",
+  "problemTitle": "2167A - Square?",
+  "problemUrl": "https://codeforces.com/contest/2167/problem/A",
+  "contestId": "2167",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "385291325",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-02T16:46:31.050Z"
+  }
+}
