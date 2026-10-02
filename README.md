@@ -32,4 +32,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [702A](https://codeforces.com/contest/702/problem/A) | [702A - 702A - Maximum Increase](Codeforces/702/702A - 702A - Maximum Increase) | `Python 3` | - | - | 2026-09-30 |
 | Codeforces | [1896A](https://codeforces.com/contest/1896/problem/A) | [1896A - 1896A - Jagged Swaps](Codeforces/1896/1896A - 1896A - Jagged Swaps) | `Python 3` | - | - | 2026-09-30 |
 | Codeforces | [1814A](https://codeforces.com/contest/1814/problem/A) | [1814A - 1814A - Coins](Codeforces/1814/1814A - 1814A - Coins) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-09-30 |
+| Codeforces | [2167A](https://codeforces.com/contest/2167/problem/A) | [2167A - 2167A - Square?](Codeforces/2167/2167A - 2167A - Square-) | `Python 3` | - | - | 2026-10-02 |
 <!-- cpbase-table-end -->
