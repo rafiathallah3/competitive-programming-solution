@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "731A",
+  "problemTitle": "731A - Night at the Museum",
+  "problemUrl": "https://codeforces.com/contest/731/problem/A",
+  "contestId": "731",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "392983059",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-02T16:46:41.672Z"
+  }
+}
