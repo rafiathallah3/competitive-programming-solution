@@ -13,9 +13,9 @@
   "submission": {
     "submissionId": "388167922",
     "verdict": "Accepted",
-    "language": "1913B - Swap and Delete",
+    "language": "C++17 (GCC 7-32)",
     "executionTime": null,
     "memoryUsed": null,
-    "submittedAt": "2026-09-19T16:52:59.148Z"
+    "submittedAt": "2026-10-03T13:44:53.624Z"
   }
 }
