@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2065A",
+  "problemTitle": "2065A - Skibidus and Amog'u",
+  "problemUrl": "https://codeforces.com/contest/2065/problem/A",
+  "contestId": "2065",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "391244715",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-03T17:08:44.576Z"
+  }
+}
