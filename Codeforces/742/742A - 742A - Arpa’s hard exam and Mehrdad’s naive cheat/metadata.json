@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "742A",
+  "problemTitle": "742A - Arpa’s hard exam and Mehrdad’s naive cheat",
+  "problemUrl": "https://codeforces.com/contest/742/problem/A",
+  "contestId": "742",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "393078114",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-03T17:12:35.088Z"
+  }
+}
