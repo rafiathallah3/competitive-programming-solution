@@ -36,4 +36,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [2009B](https://codeforces.com/contest/2009/problem/B) | [2009B - 2009B - osu!mania](Codeforces/2009/2009B - 2009B - osu!mania) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-03 |
 | Codeforces | [1913B](https://codeforces.com/contest/1913/problem/B) | [1913B - 1913B - Swap and Delete](Codeforces/1913/1913B - 1913B - Swap and Delete) | `C++17 (GCC 7-32)` | - | - | 2026-10-03 |
 | Codeforces | [1760B](https://codeforces.com/contest/1760/problem/B) | [1760B - 1760B - Atilla's Favorite Problem](Codeforces/1760/1760B - 1760B - Atilla's Favorite Problem) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-03 |
+| Codeforces | [742A](https://codeforces.com/contest/742/problem/A) | [742A - 742A - Arpa’s hard exam and Mehrdad’s naive cheat](Codeforces/742/742A - 742A - Arpa’s hard exam and Mehrdad’s naive cheat) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-03 |
 <!-- cpbase-table-end -->
