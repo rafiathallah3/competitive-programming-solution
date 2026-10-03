@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2009B",
+  "problemTitle": "2009B - osu!mania",
+  "problemUrl": "https://codeforces.com/contest/2009/problem/B",
+  "contestId": "2009",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "392664539",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-03T13:35:07.134Z"
+  }
+}
