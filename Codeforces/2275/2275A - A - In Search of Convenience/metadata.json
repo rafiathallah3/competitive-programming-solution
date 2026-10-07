@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2275A",
+  "problemTitle": "A - In Search of Convenience",
+  "problemUrl": "https://codeforces.com/contest/2275/problem/A",
+  "contestId": "2275",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "393546498",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-07T15:06:01.832Z"
+  }
+}
