@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2275B",
+  "problemTitle": "B - Did Not Go to Print",
+  "problemUrl": "https://codeforces.com/contest/2275/problem/B",
+  "contestId": "2275",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "393573449",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-07T16:33:48.900Z"
+  }
+}
