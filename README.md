@@ -39,4 +39,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [742A](https://codeforces.com/contest/742/problem/A) | [742A - 742A - Arpa’s hard exam and Mehrdad’s naive cheat](Codeforces/742/742A - 742A - Arpa’s hard exam and Mehrdad’s naive cheat) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-03 |
 | Codeforces | [584A](https://codeforces.com/contest/584/problem/A) | [584A - 584A - Olesya and Rodion](Codeforces/584/584A - 584A - Olesya and Rodion) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-03 |
 | Codeforces | [2275A](https://codeforces.com/contest/2275/problem/A) | [2275A - A - In Search of Convenience](Codeforces/2275/2275A - A - In Search of Convenience) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-07 |
+| Codeforces | [2275B](https://codeforces.com/contest/2275/problem/B) | [2275B - B - Did Not Go to Print](Codeforces/2275/2275B - B - Did Not Go to Print) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-07 |
 <!-- cpbase-table-end -->
