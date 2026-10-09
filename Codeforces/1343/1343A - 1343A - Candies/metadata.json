@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1343A",
+  "problemTitle": "1343A - Candies",
+  "problemUrl": "https://codeforces.com/contest/1343/problem/A",
+  "contestId": "1343",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "393844304",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-09T13:49:08.802Z"
+  }
+}
