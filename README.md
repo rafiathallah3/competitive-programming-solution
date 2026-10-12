@@ -42,4 +42,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [2275B](https://codeforces.com/contest/2275/problem/B) | [2275B - B - Did Not Go to Print](Codeforces/2275/2275B - B - Did Not Go to Print) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-07 |
 | Codeforces | [2275C](https://codeforces.com/contest/2275/problem/C) | [2275C - C - Unrequited Love](Codeforces/2275/2275C - C - Unrequited Love) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-07 |
 | Codeforces | [1343A](https://codeforces.com/contest/1343/problem/A) | [1343A - 1343A - Candies](Codeforces/1343/1343A - 1343A - Candies) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-09 |
+| Codeforces | [1955A](https://codeforces.com/contest/1955/problem/A) | [1955A - 1955A - Yogurt Sale](Codeforces/1955/1955A - 1955A - Yogurt Sale) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-12 |
 <!-- cpbase-table-end -->
