@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1955A",
+  "problemTitle": "1955A - Yogurt Sale",
+  "problemUrl": "https://codeforces.com/contest/1955/problem/A",
+  "contestId": "1955",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "394304599",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-12T16:43:08.375Z"
+  }
+}
