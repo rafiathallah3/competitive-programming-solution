@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1845A",
+  "problemTitle": "1845A - Forbidden Integer",
+  "problemUrl": "https://codeforces.com/contest/1845/problem/A",
+  "contestId": "1845",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "394309815",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-12T17:19:07.077Z"
+  }
+}
