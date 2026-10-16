@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1840C",
+  "problemTitle": "1840C - Ski Resort",
+  "problemUrl": "https://codeforces.com/contest/1840/problem/C",
+  "contestId": "1840",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "394858846",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-16T18:38:02.856Z"
+  }
+}
