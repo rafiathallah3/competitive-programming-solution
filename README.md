@@ -44,4 +44,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [1343A](https://codeforces.com/contest/1343/problem/A) | [1343A - 1343A - Candies](Codeforces/1343/1343A - 1343A - Candies) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-09 |
 | Codeforces | [1955A](https://codeforces.com/contest/1955/problem/A) | [1955A - 1955A - Yogurt Sale](Codeforces/1955/1955A - 1955A - Yogurt Sale) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-12 |
 | Codeforces | [1845A](https://codeforces.com/contest/1845/problem/A) | [1845A - 1845A - Forbidden Integer](Codeforces/1845/1845A - 1845A - Forbidden Integer) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-12 |
+| Codeforces | [1840C](https://codeforces.com/contest/1840/problem/C) | [1840C - 1840C - Ski Resort](Codeforces/1840/1840C - 1840C - Ski Resort) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-16 |
 <!-- cpbase-table-end -->
