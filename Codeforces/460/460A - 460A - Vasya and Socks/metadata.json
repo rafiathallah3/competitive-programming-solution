@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "460A",
+  "problemTitle": "460A - Vasya and Socks",
+  "problemUrl": "https://codeforces.com/contest/460/problem/A",
+  "contestId": "460",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "395137033",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-18T19:09:34.358Z"
+  }
+}
