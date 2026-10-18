@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1875A",
+  "problemTitle": "1875A - Jellyfish and Undertale",
+  "problemUrl": "https://codeforces.com/contest/1875/problem/A",
+  "contestId": "1875",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "395131811",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-18T18:27:58.589Z"
+  }
+}
