@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "476A",
+  "problemTitle": "476A - Dreamoon and Stairs",
+  "problemUrl": "https://codeforces.com/contest/476/problem/A",
+  "contestId": "476",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "395597966",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-22T15:33:09.070Z"
+  }
+}
