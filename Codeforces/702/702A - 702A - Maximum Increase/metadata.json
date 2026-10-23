@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "702A",
+  "problemTitle": "702A - Maximum Increase",
+  "problemUrl": "https://codeforces.com/contest/702/problem/A",
+  "contestId": "702",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "395612423",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-23T15:51:29.977Z"
+  }
+}
