@@ -48,4 +48,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [1875A](https://codeforces.com/contest/1875/problem/A) | [1875A - 1875A - Jellyfish and Undertale](Codeforces/1875/1875A - 1875A - Jellyfish and Undertale) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-18 |
 | Codeforces | [460A](https://codeforces.com/contest/460/problem/A) | [460A - 460A - Vasya and Socks](Codeforces/460/460A - 460A - Vasya and Socks) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-18 |
 | Codeforces | [476A](https://codeforces.com/contest/476/problem/A) | [476A - 476A - Dreamoon and Stairs](Codeforces/476/476A - 476A - Dreamoon and Stairs) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-22 |
+| Codeforces | [1690D](https://codeforces.com/contest/1690/problem/D) | [1690D - 1690D - Black and White Stripe](Codeforces/1690/1690D - 1690D - Black and White Stripe) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-23 |
 <!-- cpbase-table-end -->
