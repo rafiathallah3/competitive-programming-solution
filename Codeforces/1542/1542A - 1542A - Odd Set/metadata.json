@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1542A",
+  "problemTitle": "1542A - Odd Set",
+  "problemUrl": "https://codeforces.com/contest/1542/problem/A",
+  "contestId": "1542",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396114678",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-26T13:58:54.502Z"
+  }
+}
