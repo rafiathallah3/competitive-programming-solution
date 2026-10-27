@@ -50,4 +50,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [476A](https://codeforces.com/contest/476/problem/A) | [476A - 476A - Dreamoon and Stairs](Codeforces/476/476A - 476A - Dreamoon and Stairs) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-22 |
 | Codeforces | [1690D](https://codeforces.com/contest/1690/problem/D) | [1690D - 1690D - Black and White Stripe](Codeforces/1690/1690D - 1690D - Black and White Stripe) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-23 |
 | Codeforces | [1542A](https://codeforces.com/contest/1542/problem/A) | [1542A - 1542A - Odd Set](Codeforces/1542/1542A - 1542A - Odd Set) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-26 |
+| Codeforces | [1766A](https://codeforces.com/contest/1766/problem/A) | [1766A - 1766A - Extremely Round](Codeforces/1766/1766A - 1766A - Extremely Round) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-27 |
 <!-- cpbase-table-end -->
