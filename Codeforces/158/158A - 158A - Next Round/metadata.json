@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "158A",
+  "problemTitle": "158A - Next Round",
+  "problemUrl": "https://codeforces.com/contest/158/problem/A",
+  "contestId": "158",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396418068",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-28T12:43:38.287Z"
+  }
+}
