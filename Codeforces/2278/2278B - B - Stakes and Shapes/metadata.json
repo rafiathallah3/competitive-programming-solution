@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2278B",
+  "problemTitle": "B - Stakes and Shapes",
+  "problemUrl": "https://codeforces.com/contest/2278/problem/B",
+  "contestId": "2278",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396866976",
+    "verdict": "Accepted",
+    "language": "C++20 (GCC 13-64)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-31T09:12:16.183Z"
+  }
+}
