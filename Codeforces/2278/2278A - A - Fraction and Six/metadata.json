@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2278A",
+  "problemTitle": "A - Fraction and Six",
+  "problemUrl": "https://codeforces.com/contest/2278/problem/A",
+  "contestId": "2278",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396854414",
+    "verdict": "Accepted",
+    "language": "C++23 (GCC 14-64, msys2)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-31T08:55:47.409Z"
+  }
+}
