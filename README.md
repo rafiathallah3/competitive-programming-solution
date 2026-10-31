@@ -52,4 +52,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [1542A](https://codeforces.com/contest/1542/problem/A) | [1542A - 1542A - Odd Set](Codeforces/1542/1542A - 1542A - Odd Set) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-26 |
 | Codeforces | [1766A](https://codeforces.com/contest/1766/problem/A) | [1766A - 1766A - Extremely Round](Codeforces/1766/1766A - 1766A - Extremely Round) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-27 |
 | Codeforces | [158A](https://codeforces.com/contest/158/problem/A) | [158A - 158A - Next Round](Codeforces/158/158A - 158A - Next Round) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-28 |
+| Codeforces | [2278A](https://codeforces.com/contest/2278/problem/A) | [2278A - A - Fraction and Six](Codeforces/2278/2278A - A - Fraction and Six) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-31 |
 <!-- cpbase-table-end -->
