@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2278C",
+  "problemTitle": "C - Math and Physics",
+  "problemUrl": "https://codeforces.com/contest/2278/problem/C",
+  "contestId": "2278",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396881743",
+    "verdict": "Accepted",
+    "language": "C++20 (GCC 13-64)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-10-31T08:56:45.119Z"
+  }
+}
