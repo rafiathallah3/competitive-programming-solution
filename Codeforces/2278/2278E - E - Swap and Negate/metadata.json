@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2278E",
+  "problemTitle": "E - Swap and Negate",
+  "problemUrl": "https://codeforces.com/contest/2278/problem/E",
+  "contestId": "2278",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396891981",
+    "verdict": "Accepted",
+    "language": "Python 3",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-11-01T01:52:56.484Z"
+  }
+}
