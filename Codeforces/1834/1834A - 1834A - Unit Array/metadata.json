@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1834A",
+  "problemTitle": "1834A - Unit Array",
+  "problemUrl": "https://codeforces.com/contest/1834/problem/A",
+  "contestId": "1834",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "397343350",
+    "verdict": "Accepted",
+    "language": "C++20 (GCC 13-64)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-11-04T14:18:16.815Z"
+  }
+}
