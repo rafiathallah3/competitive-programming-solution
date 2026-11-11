@@ -54,7 +54,7 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [158A](https://codeforces.com/contest/158/problem/A) | [158A - 158A - Next Round](Codeforces/158/158A - 158A - Next Round) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-10-28 |
 | Codeforces | [2278A](https://codeforces.com/contest/2278/problem/A) | [2278A - 2278A - Fraction and Six](Codeforces/2278/2278A - 2278A - Fraction and Six) | `C++23 (GCC 14-64, msys2)` | - | - | 2026-11-11 |
 | Codeforces | [2278B](https://codeforces.com/contest/2278/problem/B) | [2278B - 2278B - Stakes and Shapes](Codeforces/2278/2278B - 2278B - Stakes and Shapes) | `C++20 (GCC 13-64)` | - | - | 2026-11-04 |
-| Codeforces | [2278D](https://codeforces.com/contest/2278/problem/D) | [2278D - D - Lock and Unlock](Codeforces/2278/2278D - D - Lock and Unlock) | `C++20 (GCC 13-64)` | - | - | 2026-10-31 |
+| Codeforces | [2278D](https://codeforces.com/contest/2278/problem/D) | [2278D - 2278D - Lock and Unlock](Codeforces/2278/2278D - 2278D - Lock and Unlock) | `C++20 (GCC 13-64)` | - | - | 2026-11-11 |
 | Codeforces | [2278E](https://codeforces.com/contest/2278/problem/E) | [2278E - E - Swap and Negate](Codeforces/2278/2278E - E - Swap and Negate) | `Python 3` | - | - | 2026-11-01 |
 | Codeforces | [2278C](https://codeforces.com/contest/2278/problem/C) | [2278C - 2278C - Math and Physics](Codeforces/2278/2278C - 2278C - Math and Physics) | `C++20 (GCC 13-64)` | - | - | 2026-11-04 |
 <!-- cpbase-table-end -->
