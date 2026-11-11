@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "2278D",
+  "problemTitle": "2278D - Lock and Unlock",
+  "problemUrl": "https://codeforces.com/contest/2278/problem/D",
+  "contestId": "2278",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "396891825",
+    "verdict": "Accepted",
+    "language": "C++20 (GCC 13-64)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-11-11T12:36:08.648Z"
+  }
+}
