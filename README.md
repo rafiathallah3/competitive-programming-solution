@@ -57,4 +57,5 @@ Automated solution tracker powered by **[CPBase](https://github.com/)**.
 | Codeforces | [2278D](https://codeforces.com/contest/2278/problem/D) | [2278D - 2278D - Lock and Unlock](Codeforces/2278/2278D - 2278D - Lock and Unlock) | `C++20 (GCC 13-64)` | - | - | 2026-11-11 |
 | Codeforces | [2278E](https://codeforces.com/contest/2278/problem/E) | [2278E - E - Swap and Negate](Codeforces/2278/2278E - E - Swap and Negate) | `Python 3` | - | - | 2026-11-01 |
 | Codeforces | [2278C](https://codeforces.com/contest/2278/problem/C) | [2278C - 2278C - Math and Physics](Codeforces/2278/2278C - 2278C - Math and Physics) | `C++20 (GCC 13-64)` | - | - | 2026-11-04 |
+| Codeforces | [26B](https://codeforces.com/contest/26/problem/B) | [26B - 26B - Regular Bracket Sequence](Codeforces/26/26B - 26B - Regular Bracket Sequence) | `C++20 (GCC 13-64)` | - | - | 2026-11-11 |
 <!-- cpbase-table-end -->
