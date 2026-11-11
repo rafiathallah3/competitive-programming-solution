@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "26B",
+  "problemTitle": "26B - Regular Bracket Sequence",
+  "problemUrl": "https://codeforces.com/contest/26/problem/B",
+  "contestId": "26",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "398130793",
+    "verdict": "Accepted",
+    "language": "C++20 (GCC 13-64)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-11-11T12:38:38.380Z"
+  }
+}
