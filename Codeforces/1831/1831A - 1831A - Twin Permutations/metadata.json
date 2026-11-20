@@ -1,0 +1,21 @@
+{
+  "platform": "codeforces",
+  "problemId": "1831A",
+  "problemTitle": "1831A - Twin Permutations",
+  "problemUrl": "https://codeforces.com/contest/1831/problem/A",
+  "contestId": "1831",
+  "rating": null,
+  "tags": [
+    "Codeforces"
+  ],
+  "timeLimit": null,
+  "memoryLimit": null,
+  "submission": {
+    "submissionId": "399257175",
+    "verdict": "Accepted",
+    "language": "C++20 (GCC 13-64)",
+    "executionTime": null,
+    "memoryUsed": null,
+    "submittedAt": "2026-11-20T16:33:59.607Z"
+  }
+}
